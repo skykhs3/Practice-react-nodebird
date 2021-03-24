@@ -1,13 +1,17 @@
-zerocho의 깃허브에서 공부하기 위해서 새로 만든 레지토리
+#react와 node js 공부하기 위해서 새로 만든 레지토리
+
+##리액트 공식문서
+리액트 도큐먼트 : https://ko.reactjs.org/
 
 
-구버전 강좌는 old branch에 있습니다.
-리뉴얼 강좌 소스 코드는 master 브랜치에 있습니다.
-리뉴얼 강좌의 ch7는 prepare 폴더입니다.
+##리액트 + node js 풀스택 강의
 
-toolkit 적용하고 싶으신 분들을 위해 toolkit 폴더에 소스 코드 정리해두었습니다.
-Credits to [소라연](https://github.com/sorayeon/react-nodebird-toolkit)
+따라하며 배우는 노드, 리액트 시리즈 : https://www.inflearn.com/course/%EB%94%B0%EB%9D%BC%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%85%B8%EB%93%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B8%B0%EB%B3%B8#
 
-버그가 있을 시 인프런이나 깃헙 issue로 남겨주시면 빠르게 해결하겠습니다.
+제로초 리액트 무료 강좌 : https://www.youtube.com/watch?v=V3QsSrldHqI&list=PLcqDmjxt30RtqbStQqk-eYMK8N-1SYIFn 
 
-[https://nodebird.com](https://nodebird.com)에서 실제 실행 결과물을 확인하실 수 있습니다.
+제로초 리액트 NodeBird : https://www.inflearn.com/course/%EB%85%B8%EB%93%9C%EB%B2%84%EB%93%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%A6%AC%EB%89%B4%EC%96%BC/
+
+##관련 프로그램
+
+크롬 dev tool : https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=ko
